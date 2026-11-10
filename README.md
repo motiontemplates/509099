@@ -6,7 +6,9 @@ Seventeen types of semantic motion diagrams in warm gray, off-white and green, f
 
 **16:9 · 1280 × 720 · 24 fps · v0.4.0-rc.5** · [@frankye1211](https://motiongit.com/@frankye1211) · [简体中文](README.zh-CN.md)
 
-**[Template details, full .motion & demo](https://motiongit.com/@frankye1211/product-update-story)**
+Motion templates now support asset APIs for background music, stickers, images and video, with free options. Upgraded templates remain **100% free and open source**. Download the upgrade from the official MotionGit page below. MotionGit links API access to individual accounts to prevent abuse from bulk requests. See MotionGit for the scope of free API usage.
+
+**[Download .motion from MotionGit](https://motiongit.com/@frankye1211/product-update-story)**
 https://motiongit.com/@frankye1211/product-update-story
 
 Download available; current terms are listed with the package.
